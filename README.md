@@ -9,6 +9,10 @@ go run main.go
 Example of the input:
 
 ```go
+userId := 3
+
+k := 2
+
 testRatings := [][]int{
 		{0, 4, 0, 4, 4, 0},
 		{0, 1, 0, 0, 0, 4},
